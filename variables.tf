@@ -1,4 +1,4 @@
-region = "us-east-1"
-label  = "hashicorp.fun"
-app    = "terramino"
-user   = "circleci-user"
+variable "region" {}
+variable "user" {}
+variable "label" {}
+variable "app" {}
