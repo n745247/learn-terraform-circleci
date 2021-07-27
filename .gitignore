@@ -1,3 +1,13 @@
+# IntelliJ IDEA directories
+.idea/*
+learn-terraform-circleci.iml
+*.terraform.lock.hcl
+
+n745247key
+n745247key.pub
+rtc-monseckey
+rtc-monseckey.pub
+
 # Local .terraform directories
 **/.terraform/*
 
